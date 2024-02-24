@@ -2,7 +2,7 @@
 ![framework_page-0001](https://github.com/anpc849/UIT_DS104_Final_Project/assets/160831531/d07403a6-7b25-483e-aa93-dab2dc2a705e)
 
 
-Check out [my report](https://www.overleaf.com/read/wjwkgzjgmmbm#345273) on Overleaf for detailed insights.	
+Check out `DS104_report.pdf` for detailed insights.	
 
 This repository contains the source code for DS104. You can use the following instructions to clone the repository and get started with the code.
 
